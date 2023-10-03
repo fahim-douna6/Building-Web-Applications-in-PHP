@@ -1,0 +1,78 @@
+Question 1
+What is true about the following HTML?
+<a href="http://www.dr-chuck.com/page2.htm">Second Page</a> 
+<a href="http://www.dr-chuck.com/page2.htm">Second Page</a> 
+Contains a URL or a URL fragment that the hyperlink points to.
+(i) The reference is an absolute reference
+(ii) The HTML is improperly formed and there will be a syntax error
+(iii) The reference is a relative reference
+(iv) The text "second page" is improperly placed and will not be seen
+Answer:
+(i) The reference is an absolute reference
+
+Question 2
+What do you put at the beginning of an HTML file to inform the browser which variant of HTML you will be using in this document?
+(i) <meta type>
+(ii) <body>
+(iii) (ii) <?xml version>
+(iv) DOCTYPE
+(v) <html>
+(vi) <xs:sequence>
+Answer:
+(iv) DOCTYPE
+
+Question 3
+What is the name of the tag that is used in a document's <head> area to set the text shown in the tab of the browser or title bar?
+Answer:
+<title>
+
+4.
+Question 4
+In HTML, what attribute is used to indicate text that will be shown if an image is not loaded or read to a user that is using a screen reader?
+Answer:
+alt
+
+Question 5
+For the following HTML:
+<img src="csev_ian_dolphin_small.jpg" alt="Photo Credit: Ian Dolphin" width="160" align="middle">
+<img src="csev_ian_dolphin_small.jpg" alt="Photo Credit: Ian Dolphin" width="160" align="middle">
+What is an example of an "attribute"?
+(i) src
+(ii) /a
+(iii) a
+(iv) http://
+(v) Second Page
+Answer:
+src
+
+6.
+Question 6
+How do you show a less-than (<) in an an HTML page?
+(i)<!-- < -->
+(ii) //less-than
+(iii) &lt;
+(iv) <less-than>
+(v) <<<
+Answer:
+(iii) &lt;
+
+7.
+Question 7
+What does the <ul> tag accomplish?
+(i) Begins an unordered list
+(ii) Indicates that a sequence of HTML is certified to be safe
+(iii) Enables upper-lower text
+(iv) Reduces the space between lines (leading)
+Answer:
+(i) Begins an unordered list
+
+8.
+Question 8
+In a table, what is the general order of tags from outer to inner when constructing a table?
+(i) <table> <tr> <td>
+(ii) <table> <td> <table> <tr> <table>
+(iii) <table> <row> <column>
+(iv) <td> <tr> <table>
+(v) <table> <td> <tr>
+ANswers:
+(i) <table> <tr> <td>
